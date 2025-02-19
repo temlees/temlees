@@ -18,5 +18,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=radical)
 
 
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=사용자명&theme=radical)
+
